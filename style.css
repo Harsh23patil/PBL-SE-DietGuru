@@ -1,0 +1,51 @@
+.row{
+    width: 101%;
+}
+.title-container{
+    padding: 2% 5%;
+    background-color: #f2f1ec;
+}
+.my-nav{
+    height: 8rem;
+    background-color: #f2f1ec;
+}
+.navbar-brand{
+    font-family: 'Roboto', sans-serif;
+    font-size: 3rem;
+    font-weight: bolder;
+    color: #365b6d;
+}
+.navbar-brand:hover{
+    color: #365b6d;
+}
+.myLink{
+    color: #3f687c;
+    font-size: 1.3rem;
+    margin: 5px;
+}
+.myLink:hover{
+    color: #1a2d36;
+}
+
+.title-page{
+    padding: 5%;
+    background-color: #365b6d;
+}
+.heading{
+    font-size: 3rem;
+    color: rgb(239, 241, 253);
+}
+.form-width{
+    width: 50%;
+}
+.dwn-btn{
+    background-color: #789bab;
+}
+.form-label{
+    color: rgb(239, 241, 253);
+}
+#features{
+    margin-top: 7%;
+    text-align: center;
+    width: 90%;
+}
