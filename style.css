@@ -1,5 +1,5 @@
 .row{
-    width: 101%;
+    width: 100.7%;
 }
 .title-container{
     padding: 2% 5%;
@@ -24,7 +24,11 @@
     margin: 5px;
 }
 .myLink:hover{
-    color: #1a2d36;
+    color: #293b42;
+    font-weight: bold;
+}
+.myLink:active {
+    color: #293b42;
 }
 
 .title-page{
@@ -39,13 +43,49 @@
     width: 50%;
 }
 .dwn-btn{
-    background-color: #789bab;
+    background-color: #98c8de;
+    font-family: 'Roboto', sans-serif;
+}
+.dwn-btn:hover{
+    background-color: #29363c;
+}
+
+.nav-link:visited{
+    color: #29363c;
 }
 .form-label{
     color: rgb(239, 241, 253);
+}
+.title-img{
+    width: 75%;
+    border-radius: 10px;
+}
+.title-part2{
+    padding-left: 10%;
 }
 #features{
     margin-top: 7%;
     text-align: center;
     width: 90%;
+}
+.outPut{
+    height: 40px;
+    border-radius: 5px;
+    padding: 7px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    background-color: #ededed;
+}
+
+
+#Meal-Planner{
+    padding: 2% 5%;
+}
+.Meal-Planner-heading{
+    font-size: 3rem;
+    margin: 3% 0%;
+}
+.Meal-Planner-para{
+    font-size: 1.3rem;
+    margin: 2% 0;
 }
