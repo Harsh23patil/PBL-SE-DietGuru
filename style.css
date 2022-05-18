@@ -78,6 +78,7 @@
     font-weight: bold;
     font-family: 'Roboto', sans-serif;
     background-color: #ededed;
+    margin-top: 4%;
 }
 
 
@@ -115,7 +116,7 @@
     color: white;
 }
 .footer-img{
-    width: 2%;
+    width: 30px;
     margin: 10px;
 }
 .footer-img:hover{
